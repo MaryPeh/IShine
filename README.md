@@ -44,8 +44,8 @@ bater
 Copiar
 
 Editar
-git clone https://github.com/seu-usuario/ShineMindAI.git
-cd ShineMindAI
+git clone https://github.com/seu-usuario/IShine.git
+cd IShine
 2️⃣ Instalar como Dependências
 bater
 
