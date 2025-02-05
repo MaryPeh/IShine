@@ -1,4 +1,4 @@
-###
+
 🧠 IShine- Análise de Sentimentos-Saúde Mental
 📌 Visão Geral
 O IShine é um projeto que utiliza **Inteligência ArtiInteligência Artificial e Processamento de Linguagem Natural (PNL) pansiedade, depressão e bem-estar são discutidos online.
@@ -85,5 +85,5 @@ Este projeto está licenciado sob a Licença MIT – sinta-se à vontade para co
 📬 Contato
 📧 E-mail: contato.marypedreira@gmail.com
 
-Se gostou do projeto, deixe um ⭐ no repositório e contribua com melhorias! 🚀
+Se gostou do projeto, deixe um ⭐ no repositório e contribua com melhorias! Obrigada. 🚀
 
