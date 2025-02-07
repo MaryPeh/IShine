@@ -1,7 +1,7 @@
 
-🧠 ShineMindAI - Análise de Sentimentos sobre Saúde Mental
+🧠 IShine - Análise de Sentimentos sobre Saúde Mental
 📌 Visão Geral
-O ShineMindAI é um projeto que utiliza Inteligência Artificial e Processamento de Linguagem Natural (PNL) para analisar sentimentos em postagens sobre saúde mental em redes sociais. O objetivo é identificar padrões emocionais e avaliar como temas como ansiedade, depressão e bem-estar são considerados online.
+O IShine é um projeto que utiliza Inteligência Artificial e Processamento de Linguagem Natural (PNL) para analisar sentimentos em postagens sobre saúde mental em redes sociais. O objetivo é identificar padrões emocionais e avaliar como temas como ansiedade, depressão e bem-estar são considerados online.
 
 🚀 Tecnologias Utilizadas
 Python (Pandas, NumPy, Scikit-Learn, NLTK)
@@ -41,15 +41,19 @@ Como a inteligência artificial pode ajudar na análise desta
 
 git clone https://github.com/seu-usuario/IShine.git
 cd IShine
+
 2️⃣ Instalar como Dependências
 
 pip install -r requirements.txt
+
 3️⃣ Executar uma Coleta de Dados
 
 python src/collect_data.py
+
 4️⃣ Treinar o Modelo
 
 python src/train_model.py
+
 5️⃣ Rodar o Dashboard Interativo
 
 streamlit run src/dashboard.py
