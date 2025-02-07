@@ -1,19 +1,16 @@
 
-🧠 IShine- Análise de Sentimentos-Saúde Mental
+🧠 ShineMindAI - Análise de Sentimentos sobre Saúde Mental
 📌 Visão Geral
-O IShine é um projeto que utiliza **Inteligência ArtiInteligência Artificial e Processamento de Linguagem Natural (PNL) pansiedade, depressão e bem-estar são discutidos online.
+O ShineMindAI é um projeto que utiliza Inteligência Artificial e Processamento de Linguagem Natural (PNL) para analisar sentimentos em postagens sobre saúde mental em redes sociais. O objetivo é identificar padrões emocionais e avaliar como temas como ansiedade, depressão e bem-estar são considerados online.
 
 🚀 Tecnologias Utilizadas
-Python (Pand
-Aprendizado de máquina (Naive Bayes, T
+Python (Pandas, NumPy, Scikit-Learn, NLTK)
+Aprendizado de Máquina (Naive Bayes, TF-IDF, Redes Neurais)
 PNL (Processamento de Linguagem Natural)
-API do Twitter/Tweepy (para col.
+API do Twitter/Tweepy (para coleta de dados)
 Streamlit (para visualização interativa)
 Matplotlib e Seaborn (para geração de gráficos)
-📂 Estrutura do Repositório
-bater
 
-Copiar
 
 Editar
 📂 IShine
@@ -24,6 +21,7 @@ Editar
 │── 📄 README.md          # Explicação do projeto
 │── 📄 requirements.txt   # Bibliotecas necessárias
 │── 📄 .gitignore         # Arquivos ignorados pelo Git
+
 📊 Objetivo do Projeto
 O projeto visa responder
 
@@ -38,41 +36,22 @@ Como a inteligência artificial pode ajudar na análise desta
 5️⃣ Dashboard Interativo – Criação de um painel
 
 📥 Como usar o projeto?
+
 1️⃣ Clonar o Repositório
-bater
 
-Copiar
-
-Editar
 git clone https://github.com/seu-usuario/IShine.git
 cd IShine
 2️⃣ Instalar como Dependências
-bater
 
-Copiar
-
-Editar
 pip install -r requirements.txt
 3️⃣ Executar uma Coleta de Dados
-bater
 
-Copiar
-
-Editar
 python src/collect_data.py
 4️⃣ Treinar o Modelo
-bater
 
-Copiar
-
-Editar
 python src/train_model.py
 5️⃣ Rodar o Dashboard Interativo
-bater
 
-Copiar
-
-Editar
 streamlit run src/dashboard.py
 📌 Melhorias Futuras
 🔄 Treinar modelo mais avançado com BERT ou Transformers.
