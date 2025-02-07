@@ -23,17 +23,18 @@ Editar
 │── 📄 .gitignore         # Arquivos ignorados pelo Git
 
 📊 Objetivo do Projeto
-O projeto visa responder
+O projeto visa responder perguntas como:
 
-Como as pessoas expressam seus se
-Quais são os padrões mais comuns no tex
-Como a inteligência artificial pode ajudar na análise desta
+Como as pessoas expressam seus sentimentos sobre saúde mental online?
+Quais são os padrões mais comuns nos textos desenvolvidos?
+Como a inteligência artificial pode ajudar na análise de discursos sobre saúde mental?
+
 🔍 Metodologia
 1️⃣ Coleta de Dados – Extração de tweets e postagens sobre saúde mental.
-2️Pré-processamento – Limpeza e tokenização dos textos.
-3️⃣ Treinamento do Modelo – Treinamento de
-4️⃣ *Análise de Resultados – Visualização de padrões através de gr
-5️⃣ Dashboard Interativo – Criação de um painel
+2️⃣ Pré-processamento – Limpeza e tokenização dos textos.
+3️⃣ Treinamento do Modelo – Treinamento de um modelo de Machine Learning para classificar sentimentos.
+4️⃣ Análise de Resultados – Visualização de padrões através de gráficos.
+5️⃣ Dashboard Interativo – Criação de um painel no Streamlit para exploração dos dados.
 
 📥 Como usar o projeto?
 
@@ -57,10 +58,12 @@ python src/train_model.py
 5️⃣ Rodar o Dashboard Interativo
 
 streamlit run src/dashboard.py
+
 📌 Melhorias Futuras
 🔄 Treinar modelo mais avançado com BERT ou Transformers.
-📊 Criar painel sonoro no Power BI para análise visual mais ric
-📈 Testar Deep Learning (LSTMs) para melhorar a classificação de
+📊 Crie painel sonoro no Power BI para análise visual mais rica.
+📈 Testar Deep Learning (LSTMs) para melhorar a classificação de sentimentos.
+
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT – sinta-se à vontade para contribuir! 🤝
